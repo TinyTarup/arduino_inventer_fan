@@ -8,3 +8,7 @@ D1 - Transistor für Lüfter 1
 D2 - Transistor für Lüfter 2
 
 D5 - Taster
+
+Inspiriert von:
+- https://www.elektrotechnik-einfach.de/lueftersteuerung/
+- https://funduino.de/nr-5-taster-am-arduino
