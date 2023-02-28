@@ -1,7 +1,7 @@
 # arduino_inventer_fan
 Steuerung für einen InVENTer® iV-Twin+ auf einem Arduino
 
-Getestet auf einem D1 Mini Clone
+Getestet auf einem D1 ESP8266 Mini Board
 
 D1 - Transistor für Lüfter 1
 
